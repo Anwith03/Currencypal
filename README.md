@@ -15,6 +15,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| USD to INR Conversion | INR to USD Conversion |
+|:---------------------:|:---------------------:|
+| ![USD to INR](screenshots/usd_to_inr.jpg) | ![INR to USD](screenshots/inr_to_usd.jpg) |
+
+---
+
 ## 🛠️ Tech Stack & Requirements
 
 - **Language**: Kotlin
@@ -51,6 +59,7 @@ CurrencyPal/
 │       └── test/                        # Local JVM unit tests
 ├── gradle/
 │   └── libs.versions.toml               # Dependency version catalog
+├── screenshots/                         # App screenshots & UI previews
 ├── build.gradle.kts                     # Root-level Gradle build script
 ├── settings.gradle.kts                  # Gradle settings & plugin repositories
 └── README.md                            # Project documentation
@@ -93,3 +102,4 @@ CurrencyPal/
 5. **Reset**: Press **Reset** to clear the input field and calculated result.
 
 ---
+
