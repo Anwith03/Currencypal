@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CurrencyPal</string>
+    <string name="amount_hint">Enter Amount</string>
+    <string name="from_currency">From</string>
+    <string name="to_currency">To</string>
+    <string name="convert_btn">Convert</string>
+    <string name="reset_btn">Reset</string>
+    <string name="swap_desc">Swap currencies</string>
+
+    <string-array name="currency_codes">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>SEK</item>
+        <item>NZD</item>
+    </string-array>
+</resources>
